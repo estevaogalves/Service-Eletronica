@@ -143,6 +143,8 @@ Os arquivos `About.tsx`, `ContactCTA.tsx` e `WhatsAppButton.tsx` existem na estr
 
 ## Como executar
 
+> As instruções abaixo existem para que recrutadores e desenvolvedores possam **avaliar** o projeto localmente. Clonar e executar o projeto é permitido apenas para esse fim. Qualquer outro uso depende de autorização. Veja a seção [Licença](#licença).
+
 ### Pré-requisitos
 
 - Node.js `^20.19.0` ou `>=22.12.0` (exigido pelo Vite)
@@ -208,7 +210,7 @@ A versão publicada está hospedada na **Vercel**:
 
 **Todos os direitos reservados.** Este não é um projeto de código aberto.
 
-Por se tratar de um site desenvolvido para um cliente real, o código está público apenas para fins de portfólio e avaliação profissional. Ele pode ser visualizado, mas não pode ser copiado, modificado, redistribuído ou reutilizado, no todo ou em parte, sem autorização prévia e por escrito do autor.
+Por se tratar de um site desenvolvido para um cliente real, o código está público apenas para fins de portfólio e avaliação profissional. Ele pode ser visualizado, e também clonado e executado localmente exclusivamente para avaliação, mas não pode ser copiado, modificado, redistribuído ou reutilizado, no todo ou em parte, sem autorização prévia e por escrito do autor.
 
 O nome, a identidade visual, os textos e os dados da Service Eletrônica pertencem à empresa.
 

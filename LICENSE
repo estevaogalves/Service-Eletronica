@@ -3,8 +3,12 @@ Copyright (c) 2026 Estevão Alves. Todos os direitos reservados.
 Este repositório é público apenas para fins de portfólio e avaliação
 profissional. Ele NÃO é um projeto de código aberto.
 
-O código-fonte pode ser visualizado e lido. Sem autorização prévia e
-por escrito do autor, NÃO é permitido:
+O código-fonte pode ser visualizado e lido. Também é permitido clonar o
+repositório e executar o projeto localmente, exclusivamente para avaliar o
+trabalho do autor (por exemplo, em processos seletivos ou revisões
+técnicas). Essa permissão não autoriza nenhum outro uso.
+
+Sem autorização prévia e por escrito do autor, NÃO é permitido:
 
   - copiar, reproduzir ou redistribuir o código, no todo ou em parte;
   - modificar ou criar trabalhos derivados a partir dele;
@@ -17,14 +21,16 @@ e os dados da empresa (endereço, telefone, horários e demais informações)
 pertencem à Service Eletrônica e não podem ser utilizados para outros fins.
 
 Nenhuma licença ou direito é concedido, de forma expressa ou implícita,
-além da visualização do código neste repositório.
+além da visualização do código e da execução local para avaliação,
+descritas acima.
 
 ---
 
 Copyright (c) 2026 Estevão Alves. All rights reserved.
 
 This repository is public for portfolio and professional review purposes
-only. It is NOT open source. You may view the source code, but you may not
-copy, modify, distribute, or reuse it, in whole or in part, without prior
-written permission from the author. The "Service Eletrônica" name, brand,
+only. It is NOT open source. You may view the source code, and you may
+clone and run it locally solely to evaluate the author's work. You may not
+otherwise copy, modify, distribute, or reuse it, in whole or in part,
+without prior written permission from the author. The "Service Eletrônica" name, brand,
 content, and company information belong to Service Eletrônica.
