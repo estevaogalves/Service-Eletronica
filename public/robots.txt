@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://serviceeletronica.com.br/sitemap.xml
+Sitemap: https://www.serviceeletronica.com.br/sitemap.xml
