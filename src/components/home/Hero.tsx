@@ -59,7 +59,7 @@ export function Hero() {
               Service Eletrônica
             </h1>
             <p className="mb-6 text-xl font-semibold text-primary">
-              Assistência técnica especializada para eletroeletrônicos.
+              Assistência técnica autorizada para eletroeletrônicos.
             </p>
             <p className="mb-8 text-lg leading-relaxed text-muted-foreground">
               Com sólida experiência no setor de reparo eletrônico e
