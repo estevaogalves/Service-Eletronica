@@ -13,7 +13,7 @@ export function BrandsSection() {
         <div className="mb-[clamp(1rem,4svh,3rem)] max-w-3xl">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-border bg-secondary px-3 py-1 text-xs font-semibold text-primary">
             <Factory className="size-4" />
-            Ampla Cobertura Especializada
+            Ampla Cobertura Autorizada
           </div>
           <h2 className="font-heading mb-3 text-3xl font-bold tracking-tight text-primary md:text-4xl">
             Marcas e Produtos Atendidos

@@ -5,7 +5,7 @@
  */
 export const company = {
   name: "Service Eletrônica",
-  tagline: "Assistência Técnica Especializada",
+  tagline: "Assistência Técnica Autorizada",
   address: {
     street: "Rua T39, 13",
     neighborhood: "Setor Bueno",

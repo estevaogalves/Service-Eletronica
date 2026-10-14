@@ -17,7 +17,7 @@ export function Footer() {
               </span>
             </div>
             <p className="max-w-md text-sm text-purple-200/90">
-              Assistência Técnica Especializada e Autorizada com laboratório
+              Assistência Técnica Autorizada com laboratório
               próprio, instrumentos calibrados e dedicação completa ao reparo
               de eletrônicos e utilidades domésticas.
             </p>
@@ -73,7 +73,7 @@ export function Footer() {
 
         <p className="text-center text-xs text-purple-200/70">
           © {new Date().getFullYear()} {company.name}. Assistência Técnica
-          Especializada e Autorizada. Peças 100% Originais. Todos os direitos
+          Autorizada. Peças 100% Originais. Todos os direitos
           reservados.
         </p>
       </div>
